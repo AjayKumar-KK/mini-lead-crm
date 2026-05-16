@@ -1,0 +1,15 @@
+{
+  "name": "mini-lead-crm-mock",
+  "version": "1.0.0",
+  "description": "Mock API server for the Mini Lead CRM frontend assessment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
