@@ -119,3 +119,15 @@ Given additional time, I would improve:
 I used AI tools during development mainly for brainstorming UI ideas, improving code structure, and exploring different approaches for certain features and edge cases.
 
 However, the core application logic, status transition rules, component structure, and overall implementation were written and reviewed by me. I also made sure to understand every part of the code and avoided using suggestions that felt overly complex or unnecessary for the scope of this project.
+
+---
+
+# Screenshots
+
+## Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+## Kanban Board
+
+![Kanban Board](./screenshots/kanban-board.png)
