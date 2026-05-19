@@ -5,12 +5,6 @@ The application allows users to manage leads through different stages of a sales
 
 ---
 
-# Demo Video
-
-[Watch Demo Video](https://www.loom.com/share/92d29bb6103c4d02bfc65436b37aaec2)
-
----
-
 # Tech Stack Chosen and Why
 
 ## Framework — React + TypeScript
